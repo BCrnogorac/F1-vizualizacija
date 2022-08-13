@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <style>
+      .demo-bg {
+        left: 0;
+        top: 0;
+        width: fit-content;
+        height: fit-content;
+      }
+ 
+      .rbChart {
+      }
+ 
+      @font-face {
+        font-family: F1Font;
+        src: url(../fonts/Formula1-Regular.ttf);
+      }
+
+      @font-face {
+        font-family: SansSerifBldFLF;
+        src: url(../fonts/SansSerifBldFLF.otf);
+      }
+
+      @font-face {
+        font-family: SansSerifExbFLF;
+        src: url(../fonts/SansSerifExbFLF.otf);
+      }
+
+ 
+      body,
+      div {
+        font-family: F1Font;
+      }
+
+      
+    </style>
+ 
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <script src="http://d3js.org/d3.v7.min.js" charset="utf-8"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
+
+  </head>
+ 
+  <nav class="navbar navbar-expand-lg" style="background-color: #152D44">
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarTogglerDemo03"
+      aria-controls="navbarTogglerDemo03"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" style="cursor: default">
+      <img
+        src="../images/rb-logo.png"
+        alt=""
+        width="80"
+        height="40"
+      />
+    </a>
+ 
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+      <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <li class="nav-item active">
+          <a class="nav-link text-white" href="../home.html"
+            >Home <span class="sr-only">(current)</span></a
+          >
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link disabled text-white" href="../races.html">Races</a>
+        </li>
+      </ul>
+      
+    </div>
+  </nav>
+
+<body>
+    <div style="background-color: #202A3F;">
+        <img src="../images/rb-history.avif" class="rounded mx-auto d-block img-fluid" style="max-width: 60%;">
+        <br><br>
+        <h1 class="display-2 text-center" style="font-family: SansSerifExbFLF; color: white;">OUR HISTORY</h1>
+        <br><br>
+    </div>
+    
+
+    <br><br>
+    <div class="d-flex flex-row justify-content-center">
+      <img src="../images/trophy.png" style="width: 5%; height:5%;">
+      <h1 class="display-4 text-center" style="font-family: SansSerifExbFLF; color: black;">CONSTRUCTOR'S CHAMPIONSHIP THROUGHOUT THE YEARS</h1>
+      <img src="../images/trophy.png" style="width: 5%; height:5%;">
+    </div>
+    
+   
+    <br><br>
+    <div class="d-flex justify-content-center">
+      <button onclick="startRuntime()" type="button" class="btn btn-outline-warning" style="font-family: SansSerifBldFLF; color: black; font-size: 24px;">Start</button>
+    </div>
+    <br><br>
+    <div class="d-flex flex-row justify-content-center">
+        <div id="chart" style="background-image: url('../images/rb-logo-1.png'); background-repeat:no-repeat;  background-attachment: fixed; background-position: center ; background-size: 20%; width:90%" ></div>
+    </div>
+
+    
+    <div style="background-color: #202A3F;">
+      <br><br><br>
+      <div class="d-flex flex-row justify-content-start" style="margin-left: 300px;" >
+        <h2 style="color:aliceblue ; font-family: SansSerifBldFLF; font-size: 38px;" class="border-left border-warning shadow p-4 mb-4">Career Highlights</h2>
+      </div>
+
+
+      <div class="d-flex flex-row justify-content-center">
+        <div class="p-2">
+          <div class="donut ml-5" style="display:flex; align-items:center; justify-content:center;  color: blue; width: 200px; height: 200px; border-radius: 50%; background: conic-gradient(
+          orange 0deg 79.2deg,
+          #E5E5E5 80deg 190deg
+          );">
+            <div class="hole" style="width:180px; height: 180px; line-height: 180px; color:#E5E5E5; border-radius: 50%; background: #202A3F; text-align: center;">
+              4/18
+            </div>
+          </div>
+          <div style="font-family: SansSerifBldFLF; color:white; font-size: 24px;align-items:center; display:flex;" class="ml-5">
+            CHAMPIONSHIPS
+          </div>
+        </div>
+  
+        <div class="p-2 d-flex flex-column justify-content-center">
+          <div class="donut ml-5" style="display:flex; align-items:center; justify-content:center;  color: blue; width: 200px; height: 200px; border-radius: 50%; background: conic-gradient(
+          orange 0deg 88.664deg,
+          #E5E5E5 80deg 190deg
+          );">
+            <div class="hole" style="width:180px; height: 180px; line-height: 180px; color:#E5E5E5; border-radius: 50%; background: #202A3F; text-align: center;">
+              83/337
+            </div>
+          </div>
+          <div style="font-family: SansSerifBldFLF; color:white;font-size: 24px; display:flex; align-items:center; justify-content:center;" class="ml-5">
+            WINS
+          </div>
+        </div>
+  
+        <div class="p-2">
+          <div class="donut ml-5" style="display:flex; align-items:center; justify-content:center;  color: blue; width: 200px; height: 200px; border-radius: 50%; background: conic-gradient(
+          orange 0deg 236.083deg,
+          #E5E5E5 80deg 190deg
+          );">
+            <div class="hole" style="width:180px; height: 180px; line-height: 180px; color:#E5E5E5; border-radius: 50%; background: #202A3F; text-align: center;">
+              221/337
+            </div>
+          </div>
+          <div style="font-family: SansSerifBldFLF; color:white; font-size: 24px;display:flex; align-items:center; justify-content:center;" class="ml-5">
+            PODIUMS
+          </div>
+        </div>
+  
+        <div class="p-2">
+          <div class="donut ml-5" style="display:flex; align-items:center; justify-content:center;  color: blue; width: 200px; height: 200px; border-radius: 50%; background: conic-gradient(
+          orange 0deg 82.255deg,
+          #E5E5E5 80deg 190deg
+          );">
+            <div class="hole" style="width:180px; height: 180px; line-height: 180px; color:#E5E5E5; border-radius: 50%; background: #202A3F; text-align: center;">
+              77/337
+            </div>
+          </div>
+          <div style="font-family: SansSerifBldFLF; color:white;font-size: 24px; display:flex; align-items:center; justify-content:center;" class="ml-5">
+            POLES
+          </div>
+        </div>
+      </div>
+      <br><br><br>
+      </div>
+
+    </div>
+
+    </div>
+
+    <br><br>
+
+    <script type="module">
+
+            import define from "./index.js";
+            import {Runtime, Library, Inspector} from "./runtime.js";
+
+            window.startRuntime=()=>{
+
+              const runtime = new Runtime();
+              const main = runtime.module(define, name => {
+                  console.log(name)
+                  if (name == 'chart') {
+                      return new Inspector(document.querySelector("#chart"));
+                  }
+               
+            });
+          }
+
+
+                    
+    </script>

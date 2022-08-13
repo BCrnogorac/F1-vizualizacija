@@ -1,0 +1,1313 @@
+
+
+{
+    "bahrain": 
+    {
+      "startingGrid" : "images/races/bahrain-start.PNG",
+      "raceStats" : "images/races/bahrain-stats.PNG",
+      "raceENd": "images/races/bahrain-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "Perez starts from the pitlane following a sudden power loss, which was fixed during the formation lap. Haas' Nikita Mazepin goes off track at turn 3 and the safety car was deployed."
+        },
+        {
+          "lap": 3,
+          "info": "Safety car ending."
+        },
+        {
+          "lap": 4,
+          "info": "AlphaTauri’s Pierre Gasly clipped Daniel Ricciardo’s McLaren and lost his front wing, causing another brief Safety car."
+        },
+        {
+          "lap": 12,
+          "info": "Ferrari's Charles Leclerc pits."
+        },
+        {
+          "lap": 13,
+          "info": "Mercedes' Lewis Hamilton pits."
+        },
+        {
+          "lap": 16,
+          "info": "Mercedes' Valtteri Bottas pits."
+        },
+        {
+          "lap": 17,
+          "info": "Max Verstappen pits."
+        },
+        {
+          "lap": 19,
+          "info": "Checo Perez pits."
+        },
+        {
+          "lap": 28,
+          "info": "Mercedes' Lewis Hamilton pits."
+        },
+        {
+          "lap": 30,
+          "info": "Mercedes' Valtteri Bottas pits."
+        },
+        {
+          "lap": 32,
+          "info": "Ferrari's Charles Leclerc pits."
+        },
+        {
+          "lap": 38,
+          "info": "Checo Perez pits."
+        },
+        {
+          "lap": 39,
+          "info": "Max Verstappen pits."
+        },
+        {
+          "lap": 52,
+          "info": "Max Verstappen challenges Lewis Hamilton. He got past the Mercedes but did so off track and had to give back the position."
+        },
+        {
+          "lap": 56,
+          "info": "Max recovered to once again go on the attack but in the final lap Hamilton did just enough to keep the Red Bull at bay, leaving Max to take P2."
+        }
+      ]
+    },
+  
+    "imola":
+    {
+      "startingGrid" : "images/races/imola-start.PNG",
+      "raceStats" : "images/races/imola-stats.PNG",
+      "raceENd": "images/races/imola-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "Max made a superb start from P3 on the grid to pass both Checo and pole-sitter Lewis Hamilton in the first chicane, with the Mercedes driver forced wide as Max muscled his way past. As Hamilton recovered Sergio also tried to get past, but had to back off and in doing so the Mexican lost a place to Ferrari’s Charles Leclerc. As rain poured, Williams’ Nicholas Latifi went off track and as he re-joined, he collided with Haas’ Nikita Mazepin and was pitched into the wall. The safety car was swiftly deployed."
+        },
+        {
+          "lap": 4,
+          "info": "Haas' Mich Schumacher goes off the track, expanding safety car time."
+        },
+        {
+          "lap": 6,
+          "info": "Safety car is ending."
+        },
+        {
+          "lap": 27,
+          "info": "Max Verstappen pits."
+        },
+        {
+          "lap": 28,
+          "info": "Checho Perez, Valterri Bottas, Charles Leclerc and Lewis Hamilton pit. Hamilton falls behind Verstappen at P2. Verstappen leads."
+        },
+        {
+          "lap": 31,
+          "info": "Hamilton lost control and went off track as he tried to navigate his way past the back markers. He slid across the gravel and came to a halt just before the barriers. However, as he tried to get going again he hit the wall and damaged the front wing. The Mercedes driver re-joined eventually at P7 behind Sergio Perez and Charles Leclerc. However, within moments he was granted a reprieve when Williams’ George Russell and Mercedes’ Valtteri Bottas were involved in a heavy accident. Russell went to overtake the Finn but as Bottas defended, the Williams driver put a wheel on the grass on the right side. He slammed into the side of the Mercedes and both cars hit the barriers hard. The safety car was deployed but with debris strewn across the track the red flags were soon shown."
+        },
+        {
+          "lap": 35,
+          "info": "Race restars."
+        },
+        {
+          "lap": 38,
+          "info": "Sergio Perez spins and drops back to P14, behind Hamilton and Leclerc."
+        },
+        {
+          "lap": 55,
+          "info": "Hamilton gets past Leclerc, up into the podium."
+        },
+        {
+          "lap": 60,
+          "info": "Lewis Hamilton challenges McLaren's Lando Norris and takes his place at P2, just behind Verstapped."
+        }  
+      ]
+    },
+  
+    "portugal":
+    {
+      "startingGrid" : "images/races/portugal-start.PNG",
+      "raceStats" : "images/races/portugal-stats.PNG",
+      "raceENd": "images/races/portugal-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "At the start pole sitter Valtteri Bottas got away well in his Mercedes to take the lead ahead of teammate Lewis Hamilton, with Max holding P3 as the field streamed towards turn one. Behind them though, Sergio got some wheel spin off the line and lost out to soft-tyre starter Carlos Sainz of Ferrari and slipped to fifth place."
+        },
+        {
+          "lap": 2,
+          "info": "Safety car was deployed at the start of lap two, as Alfa Romeo’s Kimi Räikkönen collided with teammate Antonio Giovinazzi and lost his front wing."
+        },
+        {
+          "lap": 6,
+          "info": "Safety car ending."
+        },
+        {
+          "lap": 7,
+          "info": "When racing, Bottas held onto the lead but Max got a good run on Hamilton and passed the champion around the outside into turn one and onto P2. "
+        },
+        {
+          "lap": 20,
+          "info": "Hamilton gets past Valtteri Bottas up into P1."
+        },
+        {
+          "lap": 25,
+          "info": "Ferrari's Charles Leclerc pits."
+        },
+        {
+          "lap": 35,
+          "info": "Max Verstappen pits."
+        },
+        {
+          "lap": 36,
+          "info": "Mercedes' Valtteri Bottas pits. When Bottas emerged from his pit stop marginally ahead of Verstappen, the Red Bull driver had temperature in his tyres and passed the Mercedes onto P2."
+        },
+        {
+          "lap": 37,
+          "info": "Mercedes' Lewis Hamilton pits, leaving Sergio Perez in P1 since he hadn't pitted up until that point."
+        },
+        {
+          "lap": 47,
+          "info": "Hamilton began to quickly eat into Perez’s lead and after the Red Bull was seriously impeded by the backmarking Nikita Mazepin of Haas."
+        },
+        {
+          "lap": 51,
+          "info": "Hamilton made his move on Checo, passing the Mexican driver into turn one. With his mediums at the end of their useful life, the Team brought Sergio in for a set of used soft tyres for the final 15 laps. He emerged in fourth place behind Bottas and soon set the fastest lap of the race."
+        },
+        {
+          "lap": 63,
+          "info": "Valtteri Bottas pits."
+        },
+        {
+          "lap": 64,
+          "info": "Max Verstappen pits."
+        },
+        {
+          "lap": 65,
+          "info": "Valtteri Bottas takes the fastest lap."
+        },
+        {
+          "lap": 66,
+          "info": "On the final lap, Verstappen takes the fastest lap from Bottas. However, his hopes of taking the point on offer were dashed soon after the chequered flag as officials deleted his lap time for exceeding track limits."
+        }
+      ]
+    },
+
+    "spain":
+    {
+      "startingGrid" : "images/races/spain-start.PNG",
+      "raceStats" : "images/races/spain-stats.PNG",
+      "raceENd": "images/races/spain-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "Starting from second on the grid behind the Mercedes driver, Max made a brilliant start to draw alongside Hamilton on the long run to turn one. The Dutch driver got a nose ahead as they turned in and he powered into the lead as they swept through the following corners. In taking the lead, Max forced Hamilton wide and as he recovered the Mercedes man held up teammate Valtteri Bottas and that allowed Ferrari’s Charles Leclerc to sneak past and steal third."
+        },
+        {
+          "lap": 9,
+          "info": "Yuki Tsunoda’s AlphaTauri slowed and the Japanese driver was forced to stop at the edge of the circuit at turn 10. That brought out the safety car."
+        },
+        {
+          "lap": 10,
+          "info": "Safety car ending."
+        },
+        {
+          "lap": 23,
+          "info": "Mercedes' Valtteri Bottas."
+        },
+        {
+          "lap": 24,
+          "info": "Max made his first pit stop at the end of lap 24 but the halt was a slow one as a problem with the rear left kept the Dutchman in the box for 4.2 seconds. He re-joined in third but began to claw back time on Hamilton, who now led. Hamilton was slowed by the backmarker Nikita Mazepin in his Haas."
+        },
+        {
+          "lap": 25,
+          "info": "Checo Perez was chasing McLaren's Daniel Ricciardo and even though the Mexican was within DRS range of the McLaren he still couldn’t find a way past in the turbulent air."
+        },
+        {
+          "lap": 27,
+          "info": "Checo Perez pits."
+        },
+        {
+          "lap": 28,
+          "info": "Charles Leclerc and Lewis Hamilton pit. Hamilton resumed six seconds behind Max but armed with fresher tyres he quickly began to reel in the Red Bull and at half distance he pulled into DRS range."
+        },
+        {
+          "lap": 30,
+          "info": "Lewis Hamilton makes the fastest lap."
+        },
+        {
+          "lap": 41,
+          "info": "Checo Perez struggles to get past McLaren's Daniel Ricciardo."
+        },
+        {
+          "lap": 42,
+          "info": "Lewis Hamilton pits. Gets out behind his teammate Valtteri Bottas in P3."
+        },
+        {
+          "lap": 44,
+          "info": "Lewis Hamilton again makes the fastest lap."
+        },
+        {
+          "lap": 47,
+          "info": "Sergio Perez manages to pass Daniel Ricciardo up into P5."
+        },
+        {
+          "lap": 52,
+          "info": "Lewis Hamilton edges closer to Valtteri Bottas and is within DRS, but his teammate isn't giving up easily this time; he holds Lewis off a bit, but in the end Hamilton manages to get past Bottas up into P2."
+        },
+        {
+          "lap": 53,
+          "info": "Valtteri Bottas pits."
+        },
+        {
+          "lap": 57,
+          "info": "Valtteri Bottas takes the fastest lap from Hamilton. Sergio Perez pits."
+        },
+        {
+          "lap": 58,
+          "info": "Charles Leclerc pits."
+        },
+        {
+          "lap": 60,
+          "info": "Lewis Hamilton gets past Max and into P1. Sergio takes on the fastest lap. Max Verstappen pits and returns to P2."
+        },
+        {
+          "lap": 62,
+          "info": "Max takes on the fastest lap of the race."
+        }
+      ]
+    },
+
+    "monaco":
+    {
+      "startingGrid" : "images/races/monaco-start.PNG",
+      "raceStats" : "images/races/monaco-stats.PNG",
+      "raceENd": "images/races/monaco-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "There was major drama in the build-up to the race. In the wake of his crash at the end of qualifying, Ferrari gave the all-clear to the gearbox in Charles Leclerc’s car. But on the Monégasque driver’s lap to grid he reported an issue and he quickly returned to the pit lane. It swiftly became apparent that the home driver would not be taking part in the race and that Max would start from second with an unobstructed view down to the first corner. And when the lights went out to signal the start, the Dutchman got away perfectly. He covered the inside line well to cut off any assault from Mercedes’ Valtteri Bottas." 
+        },
+        {
+          "lap": 15,
+          "info": "Checo began to reel in Aston Martin's Sebastian Vettel ahead of him, setting a sequence of fastest laps in the opening phase to close to a little over a second behind the Aston Martin driver."
+        },
+        {
+          "lap": 29,
+          "info": "After a steady and uneventful opening stint, the race – as it so frequently does in Monaco – revolved around the pit stop. Hamilton pits and falls to P8."
+        },
+        {
+          "lap": 30,
+          "info": "Mercedes' Bottas pitted at the end lap but when he stopped on his marks, his pit crew could not remove the front right wheel and with the wheel nut resolutely stuck, he was forced to retire from the race."
+        },
+        {
+          "lap": 34,
+          "info": "Max made his first and only stop. Dutchman re-joined in second just behind Checo who had jumped up the order as the field pitted around him."
+        },
+        {
+          "lap": 35,
+          "info": " The Team then decided to pit Checo and after a couple of superb in-laps – the first being the fastest of the race to that point – the Red Bull driver was able to make a stop and still re-join ahead of Aston Martin's Sebastian Vettel, in a superb fourth."
+        },
+        {
+          "lap": 67,
+          "info": "Mercedes' Lewis Hamilton makes his second pit stop."
+        },
+        {
+          "lap": 69,
+          "info": "Hamilton takes the fastest lap of the race."
+        }
+      ]
+    },
+
+    "baku":
+    {
+      "startingGrid" : "images/races/baku-start.PNG",
+      "raceStats" : "images/races/baku-stats.PNG",
+      "raceENd": "images/races/baku-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "At the start, pole sitter Charles Leclerc got away well and took the lead for Ferrari ahead of Hamilton. Max made a solid start to hold his P3 starting place but behind, teammate Checo made a superb start and halfway through the opening lap he was past Ferrari’s Carlos Sainz and AlphaTauri’s Pierre Gasly slotting into P4." 
+        },
+        {
+          "lap": 2,
+          "info": "At the end of the lap, Hamilton closed on Leclerc and thanks to the long straight, and the slipstream, he was able to power past the Ferrari driver to claim the race lead."
+        },
+        {
+          "lap": 7,
+          "info": "After chasing Leclerc for a few laps, Max manages to get past Charles onto P2."
+        },
+        {
+          "lap": 8,
+          "info": "With Leclerc struggling, Perez gets past him swiftly."
+        },
+        {
+          "lap": 9,
+          "info": "Charles Leclerc pits."
+        },
+        {
+          "lap": 11,
+          "info": "Both Mercedes cars pit."
+        },
+        {
+          "lap": 12,
+          "info": "Max Verstappen pits, leaving Checo Perez in P1, but still in front if Hamilton."
+        },
+        {
+          "lap": 13,
+          "info": "Checo Perez pits, has a slower pits stop, but still manages to re-join before Hamilton."
+        },
+        {
+          "lap": 31,
+          "info": "Aston Martin's Lance Stroll had an accident, his left rear tyre suffered a puncture and he crashed into the wall near to the pit entry. The safety car was immediately deployed and the pit lane was closed."
+        },
+        {
+          "lap": 35,
+          "info": "Safety car ending."
+        },
+        {
+          "lap": 36,
+          "info": "Max controlled the re-start well and kept his lead ahead of Sergio and Hamilton."
+        },
+        {
+          "lap": 46,
+          "info": "Max’s RB16B slewed sideways and he was pitched into the wall on the straight, an issue which looks like a left rear tyre failure. Same as Lance Stroll's a few laps earlier. Race was red flaged."
+        },
+        {
+          "lap": 50,
+          "info": "Safety car ending. And when the lights went out it was Hamilton who made the best start. He pulled alongside Checo on the inside line as they powered towards turn one. But as they hit the brakes Hamilton locked up and Checo swept through to claim the lead as Hamilton slid down the escape. He would re-join but finished in P15."
+        }
+      ]
+    },
+
+    "france":
+    {
+      "startingGrid" : "images/races/france-start.PNG",
+      "raceStats" : "images/races/france-stats.PNG",
+      "raceENd": "images/races/france-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "When the lights went out at the start of the race, Max made a good getaway to lead Hamilton as the field headed for the first corner. But in turn two the Dutchman made a mistake and went wide. The error allowed Hamilton to steal the lead as Max re-joined ahead of Bottas and Checo." 
+        },
+        {
+          "lap": 14,
+          "info": "Charles Leclerc pits."
+        },
+        {
+          "lap": 17,
+          "info": "Valtteri Bottas pits."
+        },
+        {
+          "lap": 18,
+          "info": "Max Verstappen pits."
+        },
+        {
+          "lap": 19,
+          "info": "Lewis Hamilton pits. Hamilton should have re-joined in P2, but Max’s out lap was superlative and as the Briton emerged from the pit lane Max drew alongside the Mercedes and got past into turn one."
+        },
+        {
+          "lap": 24,
+          "info": "Checo Perez pits and after taking on hard tyres he dropped to P4, 16 seconds behind Bottas."
+        },
+        {
+          "lap": 32,
+          "info": "Max Verstappen pits. He emerged in P4 behind Checo but quickly began to close on those ahead and he was soon past his teammate and hunting down Bottas."
+        },
+        {
+          "lap": 35,
+          "info": "Max Verstappen takes on the fastest lap."
+        },
+        {
+          "lap": 38,
+          "info": "Charles Leclerc pits."
+        },
+        {
+          "lap": 44,
+          "info": "Max was within DRS range of Bottas and as they went into the chicane, Bottas went slightly wide. The mistake allowed Max to pounce and he raced past the Finn at full speed as he took his P2."
+        },
+        {
+          "lap": 49,
+          "info": "Checo Perez passes Bottas up into P3."
+        },
+        {
+          "lap": 52,
+          "info": "Max Verstappen chasing Lewis Hamilton. Max got the perfect exit and with the aid of DRS he roared past the Mercedes driver to claim the race lead, and a little over a lap later, a stunning victory."
+        }
+      ]
+    },
+
+    "styrian":
+    {
+      "startingGrid" : "images/races/styrian-start.PNG",
+      "raceStats" : "images/races/styrian-stats.PNG",
+      "raceENd": "images/races/styrian-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "At the start of the race, Max made the perfect getaway and he took the lead ahead of Hamilton. Behind them AlphaTauri’s Pierre Gasly tangled with Ferrari’s Charles Leclerc in turn one and as the pair re-joined Leclerc’s front wing tagged the left rear of Gasly’s car. Leclerc pits to change his front wing."        
+        },
+        {
+          "lap": 10,
+          "info": "Checo Perez goes past McLaren's Lando Norris up into P3."
+        },
+        {
+          "lap": 11,
+          "info": "Valtteri Bottas gets past Lando Norris up into P4."
+        },
+        {
+          "lap": 25,
+          "info": "Lewis Hamilton loses control of his Mercedes, but regains control of the car quickly."
+        },
+        {
+          "lap": 26,
+          "info": "Checo Perez pits and it's a slow pit stop. He re-joins at P5."
+        },
+        {
+          "lap": 27,
+          "info": "The delay in Perez's pit stop prompted Mercedes to pit Bottas and after a clean switch to hard tyres the Finn re-joined in P3 ahead of Checo."
+        },
+        {
+          "lap": 28,
+          "info": "Mercedes pits Lewis Hamilton."
+        },
+        {
+          "lap": 29,
+          "info": "Red Bull pits Max Verstappen and after a brilliant stop of two seconds, the Dutchman re-joined in the lead, over four seconds clear of his championship rival."
+        },
+        {
+          "lap": 33,
+          "info": "Hamilton takes on the fastest lap."
+        },
+        {
+          "lap": 37,
+          "info": "Charles Leclerc pits."
+        },
+        {
+          "lap": 54,
+          "info": "The Team brought Sergio Perez into the pits for a new set of medium tyres."
+        },
+        {
+          "lap": 56,
+          "info": "Checo Perez takes on the fastest lap."
+        },
+        {
+          "lap": 69,
+          "info": "Mercedes pits Lewis Hamilton in order to take on the fastest lap."
+        },
+        {
+          "lap": 70,
+          "info": "Hamilton takes on the fastest lap."
+        }
+      ]
+    },
+
+    "austrian":
+    {
+      "startingGrid" : "images/races/austrian-start.PNG",
+      "raceStats" : "images/races/styrian-stats.PNG",
+      "raceENd": "images/races/austrian-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "When the lights went out, Max made a good start to maintain his lead from pole position, ahead of Norris and Checo who made a good start from third place on the grid. The race was soon neutralised, however, when Alpine’s Esteban Ocon was hit by the Alfa Romeo of Antonio Giovinazzi and the Frenchman pulled over off track on the run down to turn four. The Safety Car was immediately deployed."        
+        },
+        {
+          "lap": 3,
+          "info": "Safety car ending."
+        },
+        {
+          "lap": 4,
+          "info": "When racing resumed at the start of lap four, Checo piled the pressure on Norris and attacked as they went down to turn four. The Mexican tried a bold move around the outside of the McLaren, but as Norris held his line, Checo was forced off into the gravel and he dropped to P10."
+        },
+        {
+          "lap": 20,
+          "info": "Hamilton gets past McLaren's Lando Norris up into P2."
+        },
+        {
+          "lap": 30,
+          "info": "Norris and Bottas sparked a round of pit stops and during his stop Norris served his five-second penalty for pushing Perez out of the track. That allowed Bottas to exit the pit lane ahead of him, in third place."
+        },
+        {
+          "lap": 31,
+          "info": "Mercedes' Lewis Hamilton pits."
+        },
+        {
+          "lap": 32,
+          "info": "Max made his switch to hard tyres and when the order shook out, Max found himself more than 13 seconds ahead of the Mercedes driver in P1. Checo made his first stop, attempting to undercut Leclerc."
+        },
+        {
+          "lap": 34,
+          "info": "Ferrari pits Charles Leclerc."
+        },
+        {
+          "lap": 40,
+          "info": "Wedged between Ricciardo and Leclerc, Sergio tried to reel in the McLaren even as Leclerc put the pressure on from behind. Leclerc attacked, around the outside in turn four, and the Ferrari and Red Bull made contact. Leclerc went off track but re-joined and Checo was swiftly handed a five-second time penalty for forcing another driver off track."
+        },
+        {
+          "lap": 46,
+          "info": "The battle between Perez and Leclerc flared again. Leclerc once again got into DRS range and attacked into turn four. This time the battle continued through the following corner, but in turn six Checo held a wide line and Leclerc was forced off track a second time. The Mexican soon received another second five-second penalty."
+        },
+        {
+          "lap": 52,
+          "info": "Bottas overtakes his teammate Hamilton and is in P2."
+        },
+        {
+          "lap": 53,
+          "info": "Hamilton fell back towards Norris and the young McLaren driver powered past the Mercedes man in turn six. Hamilton then pitted to take on another set of hard tyres."
+        },
+        {
+          "lap": 60,
+          "info": "Max Verstappen pits."
+        },
+        {
+          "lap": 62,
+          "info": "Max grabbed the fastest lap of the race."
+        }
+      ]
+    },
+
+    "silverstone":
+    {
+      "startingGrid" : "images/races/silverstone-start.PNG",
+      "raceStats" : "images/races/silverstone-stats.PNG",
+      "raceENd": "images/races/silverstone-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "Starting from pole position, Max made a good getaway at lights out and took the lead as the field streamed through the first corner. Hamilton, though, was quickly on the attack and Max continued to hold the lead. The Mercedes driver then went for the overtake once again on the high-speed run to Copse. The Brit went down the inside of Max and as he turned in, the Mercedes clipped the right-rear wheel of the Dutchman’s RB16B and the Bull span off at high speed, hitting the wall in a huge impact, destroying the left-hand side of the car. Fortunately, Max managed to climb out of the car by himself, however, following an assessment by the trackside doctors at Silverstone Circuit Medical Centre, the Dutchman was taken to a local hospital for further precautionary tests. With the tyre barrier severely damaged the race was soon red flagged. The race stewards quickly placed the incident under investigation while Max was taken to a nearby hospital for precautionary checks, following what was later reported as a 51G impact. Hamilton was given a +10s time penalty."        
+        },
+        {
+          "lap": 3,
+          "info": "Safety car ending."
+        },
+        {
+          "lap": 4,
+          "info": "Under the red flag, Ferrari’s Charles Leclerc was in first place, the Ferrari driver having passed Hamilton on track in the immediate aftermath of Max’s crash. When the lights went out, Leclerc made a good getaway from pole position to maintain the lead ahead of Hamilton, with Mercedes’ Valtteri Bottas third."
+        },
+        {
+          "lap": 15,
+          "info": "Leclerc was experiencing difficulties with his engine and that gave Hamilton hope that he might attack for the lead but the Ferrari driver managed to solve the issues with the aid of his pit wall."
+        },
+        {
+          "lap": 18,
+          "info": "Checo Perez pits."
+        },
+        {
+          "lap": 22,
+          "info": "Mercedes' Valtteri Bottas pits."
+        },
+        {
+          "lap": 27,
+          "info": "Mercedes pits Hamilton and he serves his +10s time penalty."
+        },
+        {
+          "lap": 29,
+          "info": "Ferrari pits Charles Leclerc and he was able to resume in the lead."
+        },
+        {
+          "lap": 38,
+          "info": "Checo Perez pits."
+        },
+        {
+          "lap": 40,
+          "info": "Mercedes gives out Team orders and the two cars switch places, leaving Hamilton in P2 and Valtteri in P3."
+        },
+        {
+          "lap": 48,
+          "info": "Checo Perez pits in order to take on the fastest lap of the race."
+        },
+        {
+          "lap": 50,
+          "info": "Checo Perez takes on the fastest lap of the race. Lewis Hamilton pushes Charles Leclerc wide and takes on the lead of the race."
+        }
+      ]
+    },
+
+    "hungaroring":
+    {
+      "startingGrid" : "images/races/hungaroring-start.PNG",
+      "raceStats" : "images/races/hungaroring-stats.PNG",
+      "raceENd": "images/races/hungaroring-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "In drizzly conditions and on intermediate tyres, Bottas made a poor getaway from P2 on the grid and was passed by Max, Sergio and by McLaren’s Lando Norris, who moved in front of the Mercedes driver. Bottas attempted to recover but when Norris appeared to brake slightly early, the Mercedes driver locked up and went into the back of the Englishman’s car. Norris was pitched to the right and cannoned into the side of Max’s RB16B. Bottas, meanwhile, went straight through turn one and hit Sergio. Seeing the incident unfolding, Aston Martin’s Lance Stroll tried to move to an inside line for turn one but Charles Leclerc was already turning and the pair collided with the Ferrari driver exiting the race. The safety car was quickly deployed. Both Bulls were able to continue but within a few corners Checo was forced to retire. Max limped back to the pits and soon after the red flags were shown."        
+        },
+        {
+          "lap": 4,
+          "info": "Race control soon informed the teams that a standing start would take place and the cars were led out of the pit lane by the safety car. The entire field went out for the formation lap on intermediate tyres but with the sun now beating down it quickly became apparent to all but Hamilton that slicks would be required. The race leader made his way to the front of the grid but behind him the entire field pitted to take on slicks. Hamilton was left alone on the grid to restart the race on his own."
+        },
+        {
+          "lap": 5,
+          "info": "Hamilton pits and Alpine's Esteban Ocon soon took up the race lead. Hamilton dropped to P14."
+        },
+        {
+          "lap": 19,
+          "info": "Mercedes pits Lewis Hamilton."
+        },
+        {
+          "lap": 20,
+          "info": "The Team pits Max Verstappen. However, with Max struggling for pace the undercut worked for Mercedes and Hamilton swept past Max as the Dutchman exited the pit lane. Max now found himself in P12."
+        },
+        {
+          "lap": 40,
+          "info": "Max Verstappen makes next pit stop."
+        },
+        {
+          "lap": 47,
+          "info": "Mercedes pits Hamilton."
+        },
+        {
+          "lap": 49,
+          "info": "Hamilton takes on the fastest lap."
+        }
+      ]
+    },
+
+    "spa":
+    {
+      "startingGrid" : "images/races/spa-start.PNG",
+      "raceStats" : "images/races/spa-stats.PNG",
+      "raceENd": "images/races/spa-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "The race at the Ardennes circuit was red flagged after just three laps behind the safety car due to heavy rain that had delayed the race start for more than three hours. The barely driveable conditions at Spa were in evidence in the build-up to the race as Sergio Pérez lost control of his RB16B. The Mexican’s car slid into the barriers on the right side of the track breaking the suspension on the front right of the car. The formation lap was then delayed for 25 minutes and when it eventually got underway the red flags were swiftly shown as drivers throughout the order declared the conditions undriveable. There followed an almost three-hour delay as officials waited for the conditions to improve. In that period, the Team delved into the sporting regulations and established that if they were able to repair Checo’s car he could start the race from the pit lane. The race restarted annd cars flowed out of the pit lane to follow the safety car around the circuit as race control prepared for a rolling start, but with the rain beginning to fall more heavily, the race was again quickly red flagged. 19 minutes later, with heavy rain still falling, Race Director sent out the message that the race would not be resumed."        
+        }
+      ]
+    },
+
+    "zandvoort":
+    {
+      "startingGrid" : "images/races/zandvoort-start.PNG",
+      "raceStats" : "images/races/zandvoort-stats.PNG",
+      "raceENd": "images/races/zandvoort-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "When the lights went out Max made a superb getaway to take the lead. Hamilton attempted to respond but into turn one the Mercedes driver was forced to defend from teammate Valtteri Bottas and that allowed Max to power off into the distance. Meanwhile, at the back of the field and after an overnight engine change, Sergio Perez took to the track from the pit lane."        
+        },
+        {
+          "lap": 3,
+          "info": "Sergio Perez rapidly chased down Williams’ Nicholas Latifi and Haas’ Mick Schumacher and had moved up to P18. However, in doing so he locked up and flat-spotted his hard tyres."
+        },
+        {
+          "lap": 8,
+          "info": "Sergio Perez pits."
+        },
+        {
+          "lap": 20,
+          "info": "Mercedes pits Lewis Hamilton."
+        },
+        {
+          "lap": 21,
+          "info": "The Team pits Max Verstappen, emerging two seconds ahead of Hamilton."
+        },
+        {
+          "lap": 30,
+          "info": "Max Verstappen passes Valtteri Bottas into P1. Bottas gives his P2 to Hamilton and dives into the pits."
+        },
+        {
+          "lap": 33,
+          "info": "Ferrari pits Charles Leclerc."
+        },
+        {
+          "lap": 37,
+          "info": "As Aston Martin's Sebastian Vettel spins, Bottas is forced to slow down and avoid crashing with Vettel."
+        },
+        {
+          "lap": 39,
+          "info": "Lewis Hamilton pits. "
+        },
+        {
+          "lap": 40,
+          "info": "Max Verstappen pits and emerges with a clear gap to his championship rival."
+        },
+        {
+          "lap": 47,
+          "info": "Checo Perez pits. He re-joined in P12 and quickly passed Williams' George Russell to relaunch his assault on the points positions."
+        },
+        {
+          "lap": 65,
+          "info": "Checo Perez comes into contact with McLaren's Lando Norris as he overtakes him."
+        },
+        {
+          "lap": 67,
+          "info": "Mercedes pits Valtteri Bottas."
+        },
+        {
+          "lap": 69,
+          "info": "As Valtteri is pushing for the fastest lap of the race, he is being told to abort the lap so Hamilton would have the point for the fastest lap. However, Bottas still takes on the fastest lap of the race, prompting Hamilton to pit again in the future to retake the fastest lap."
+        },
+        {
+          "lap": 70,
+          "info": "Hamilton pits."
+        },
+        {
+          "lap": 72,
+          "info": "Hamilton takes on the fastest lap."
+        }
+      ]
+    },
+
+    "monza":
+    {
+      "startingGrid" : "images/races/monza-start.PNG",
+      "raceStats" : "images/races/monza-stats.PNG",
+      "raceENd": "images/races/monza-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "When the lights went out at the start Max got away poorly and McLaren’s Daniel Ricciardo was able to win the drag race to the first chicane. Behind the top two, Hamilton made a good start to jump to P3. As the leaders streamed towards the second chicane the Mercedes driver and the Red Bull were side by side. But with little room in the corner both were forced wide. And while Max held second, Hamilton cut the corner and conceded third place to Norris. Behind them, though, there was a collision involving Alfa Romeo’s Antonio Giovinazzi tangled with Ferrari’s Carlos Sainz. Giovinazzi spun off track and clipped the wall bringing out the Virtual Safety Car."        
+        },
+        {
+          "lap": 12,
+          "info": "Lewis Hamilton battles with McLaren's Lando Norris for P3 but doesn't manage to get past him."
+        },
+        {
+          "lap": 23,
+          "info": "the Team told Max Verstappen to box. And there, Max’s race began to quickly unravel. A problem with the front right wheel left the championship leader stationary for 11 seconds and he emerged in ninth position, behind Aston Martin's Lance Stroll. Behind him, Hamilton managed to get past Norris and took the race lead. "
+        },
+        {
+          "lap": 25,
+          "info": "The Mercedes driver Lewis made his first pit stop and when he emerged from the pit lane it was into the path of Max. The title contenders went into the first chicane almost side by side and once again neither backed out. The result was a collision as Max was forced wide, hit the kerb and hit the rear wheels of Hamilton’s car. The Red Bull was launched into the air and landed on top of the Mercedes, with the result that both ended up in the gravel and out of the race. The Safety Car was released and that resulted in a flood of cars heading for the pit lane for a free stop. Checo was among those taking on new tyres and he emerged in fourth place behind race leader Ricciardo, Norris and Leclerc."
+        },
+        {
+          "lap": 30,
+          "info": "Safety car ending."
+        },
+        {
+          "lap": 32,
+          "info": "Checo immediately went on the attack and he muscled past the Ferrari of Charles Leclerc as they went through the first chicane. Checo got the job done by rattling across the kerbs, however, and soon after he was handed a five-second time penalty for gaining an advantage."
+        },
+        {
+          "lap": 33,
+          "info": "Bottas gets past Leclerc."
+        },
+        {
+          "lap": 34,
+          "info": "Valtteri Bottas takes the fastest lap."
+        },
+        {
+          "lap": 44,
+          "info": "Bottas and Perez battle for P3 and, as a result of the fight, Leclerc is forced to slow down as well. Perez manages to keep on the position."
+        }
+      ]
+    },
+
+    "sochi":
+    {
+      "startingGrid" : "images/races/sochi-start.PNG",
+      "raceStats" : "images/races/sochi-stats.PNG",
+      "raceENd": "images/races/sochi-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "Verstappen was at the other end of the grid, starting last after Red Bull Racing elected to introduce a new Honda power unit outside of his allocation of three for the season – a long-term strategic play that came with short-term grid penalty pain."        
+        },
+        {
+          "lap": 6,
+          "info": "Verstappen gets past Bottas up into P14."
+        },
+        {
+          "lap": 10,
+          "info": "Max pushes Leclerc for his position at P12 and manages to overtake him when Leclerc goes wide."
+        },
+        {
+          "lap": 26,
+          "info": "Both Hamilton and Verstappen pit."
+        },
+        {
+          "lap": 28,
+          "info": "Bottas pits."
+        },
+        {
+          "lap": 35,
+          "info": "Charles Leclerc pits."
+        },
+        {
+          "lap": 36,
+          "info": "Sergio Perez pits."
+        },
+        {
+          "lap": 47,
+          "info": "Rain starts. Bottas pits."
+        },
+        {
+          "lap": 48,
+          "info": "Max Verstappen pits."
+        },
+        {
+          "lap": 49,
+          "info": "Lewis Hamilton pits."
+        },
+        {
+          "lap": 50,
+          "info": "Sergio Perez pits."
+        },
+        {
+          "lap": 51,
+          "info": "Charles Leclerc pits."
+        }
+      ]
+    },
+
+    "turkey":
+    {
+      "startingGrid" : "images/races/turkey-start.PNG",
+      "raceStats" : "images/races/turkey-stats.PNG",
+      "raceENd": "images/races/turkey-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "At the start of the race, polesitter Valtteri Bottas got away well in the damp conditions to take the race lead ahead of Max who also got away well. Behind them Checo got a superb start and powered down the inside towards turn one to pull alongside AlphaTauri’s Pierre Gasly. The French driver was tussling with Alpine’s Fernando Alonso, however, and the pair made contact. Alonso was sent into a spin and Checo slipped past to grab fourth place."        
+        },
+        {
+          "lap": 8,
+          "info": "Hamilton gets past AlphaTauri's Tsunoda."
+        },
+        {
+          "lap": 34,
+          "info": "Hamilton reeled Checo in and attacked. The pair went wheel-to-wheel for the second half of lap 34 and as they battled hard Sergio was forced to go inside the bollard at the pit entry. That allowed Hamilton to pull ahead as they crossed the line to start lap 35, but Checo stayed calm and held his line to move back to fourth as they went through turn one."
+        },
+        {
+          "lap": 36,
+          "info": "Max Verstappen pits."
+        },
+        {
+          "lap": 37,
+          "info": "Checo Perez and Valtteri Bottas pit."
+        },
+        {
+          "lap": 47,
+          "info": "Bottas passes Charles Leclerc and Leclerc pits."
+        },
+        {
+          "lap": 50,
+          "info": "Hamilton, meanwhile, told his pit wall that while he was sliding around, he could manage the tyres and with 10 laps left he was in third behind Max. His team disagreed, however, and Hamilton pitted for a new set of intermediate tyres. He re-joined in fifth place, six seconds behind Sergio."
+        },
+        {
+          "lap": 52,
+          "info": "Perez gets past Leclerc."
+        }
+      ]
+    },
+
+    "usa":
+    {
+      "startingGrid" : "images/races/usa-start.PNG",
+      "raceStats" : "images/races/usa-stats.PNG",
+      "raceENd": "images/races/usa-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "When the lights went out Verstappen reacted well but Mercedes’ Hamilton was sharper still and as the pair went up the hill, Max was forced to pull across to defend. Hamilton had a better line though and as the title contenders went into turn one the Red Bull driver had to go wide and off track, ceding the lead to the Mercedes driver."        
+        },
+        {
+          "lap": 10,
+          "info": "Verstappen pits and re-joins in P5."
+        },
+        {
+          "lap": 12,
+          "info": "Sergio Perez and Ferrari's Charles Leclerc pit."
+        },
+        {
+          "lap": 13,
+          "info": "Mercedes pits Lewis Hamilton. Max powered past as Hamilton left his box. By the time Hamilton re-joined he was in P2 and 6.7s behind the Red Bull driver."
+        },
+        {
+          "lap": 15,
+          "info": "Mercedes pits Valtteri Bottas."
+        },
+        {
+          "lap": 28,
+          "info": "Virtual Safety Car deployed for a few corners t pick up the debris from the track caused by Alpine's Fernando Alonso and Alfa Romeo's Antonio Giovinazzi."
+        },
+        {
+          "lap": 29,
+          "info": "The Team pits Max Verstappen, emerging in P2 behind Hamilton."
+        },
+        {
+          "lap": 30,
+          "info": "The Team pits Sergio Perez and he re-joins in P3."
+        },
+        {
+          "lap": 32,
+          "info": "Sergio Perez takes on the fastest lap. Ferrari pits Charles Leclerc."
+        },
+        {
+          "lap": 34,
+          "info": "Valtteri Bottas pits."
+        },
+        {
+          "lap": 37,
+          "info": "Lewis Hamilton pits. Gets out behind Max in P2."
+        },
+        {
+          "lap": 41,
+          "info": "Hamilton takes on the fastest lap."
+        },
+        {
+          "lap": 55,
+          "info": "Hamilton is 1.3s behind Verstappen, trying to push him for that P1. Verstappen is slowed down by a backmarker car Hass' Mich Schumacher who, in spite of blue flags being waven, will not let the leader through. In the end, Schumacher let's the Red Bull driver through. Meanwhile, Bottas gets past Ferrari's Carlos Sainz."
+        }
+      ]
+    },
+
+    "mexico":
+    {
+      "startingGrid" : "images/races/mexico-start.PNG",
+      "raceStats" : "images/races/mexico-stats.PNG",
+      "raceENd": "images/races/mexico-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "When the lights went out, Max got a good start from third place on the grid and on the long run to turn one, he got a powerful tow from Hamilton. He drew alongside the Brit and as they went into the first corner, he braked later and hung on around the outside to take the lead. His rise to the front was aided by Valtteri Bottas spinning out in his Mercedes midway through the corner after the Finnish polesitter was tagged by McLaren’s Daniel Ricciardo. The incident allowed Checo to slip through to third place ahead of AlphaTauri's Pierre Gasly, though the Mexican had to take evasive action to avoid Bottas. Further back, AlphaTauri’s Yuki Tsunoda and Haas’ Mick Schumacher were involved in a collision and with the cars stranded at the side of the track the safety car was deployed."        
+        },
+        {
+          "lap": 4,
+          "info": "Safey car ending."
+        },
+        {
+          "lap": 29,
+          "info": "Mercedes pits Lewis Hamilton and re-joined in P5, behind Ferrari’s Charles Leclerc."
+        },
+        {
+          "lap": 30,
+          "info": "Ferrari pits Charles Leclerc."
+        },
+        {
+          "lap": 33,
+          "info": "The Team pits Max Verstappen. When Max re-joined in second place, he was 7.5s clear of Hamilton in third."
+        },
+        {
+          "lap": 39,
+          "info": "Mercedes pits Valtteri Bottas as the Team pits Sergio Perez. Perez gets out behind Hamilton in P3."
+        },
+        {
+          "lap": 63,
+          "info": "Mercedes pits Valtteri Bottas for an attempt of taking on the fastest lap."
+        },
+        {
+          "lap": 67,
+          "info": "Mercedes pits Valtteri Bottas for an attempt of taking on the fastest lap again."
+        },
+        {
+          "lap": 69,
+          "info": "Valtteri Bottas takes on the fastest lap."
+        }
+      ]
+    },
+
+    "brazil":
+    {
+      "startingGrid" : "images/races/brazil-start.PNG",
+      "raceStats" : "images/races/brazil-stats.PNG",
+      "raceENd": "images/races/brazil-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "Even though he was technically P5 in Qualifying, Hamilton took a grid place penalty for taking on a new engine unit, starting P10. When the lights went out at the start both Bulls made superb getaways. Max pulled alongside pole sitter Bottas on the run to turn one and then muscled his way past the Finn through the Senna S to take the lead. Checo, meanwhile, profited from a poor start by Ferrari’s Carlos Sainz to slip through to third place. Starting P10, Hamilton picked up four places on the first lap."        
+        },
+        {
+          "lap": 5,
+          "info": "Mercedes gives out Team orders; Bottas slows down so Hamilton can overtake him in P3."
+        },
+        {
+          "lap": 6,
+          "info": "AlphaTauri’s Yuki Tsunoda collided with Aston Martin’s Lance Stroll and the Japanese driver lost his front wing. With the debris at the side of the track the safety car was deployed."
+        },
+        {
+          "lap": 9,
+          "info": "Safety car ending."
+        },
+        {
+          "lap": 10,
+          "info": "When racing resumed at the start of lap 10, Max and Checo held off a challenge from Hamilton and retained the top two positions ahead of the Mercedes with the two Ferraris in fifth and sixth."
+        },
+        {
+          "lap": 12,
+          "info": "Virtual Safety Car appeared when Mick Schumacher’s Haas shed its front wing and more debris was scattered across the track."
+        },
+        {
+          "lap": 15,
+          "info": "Racing resumed. The Bulls once again held their positions, though this time Checo was feeling the pressure from Hamilton."
+        },
+        {
+          "lap": 18,
+          "info": "And at the end of lap 17 Checo could resist no more. Hamilton closed through the final corner and under DRS passed the Mexican around the outside to take P2. But, in doing so, the Briton went slightly wide and got a poor exit, Checo closed in on the long run to turn four and retook the position with a clinical passing move."
+        },
+        {
+          "lap": 19,
+          "info": "Hamilton once again closed in and this time perfected the move into turn one to pass the Red Bull and take second place."
+        },
+        {
+          "lap": 26,
+          "info": "Hamilton pits."
+        },
+        {
+          "lap": 27,
+          "info": "Ferrari pits Charles Leclerc. The Team pits Max Verstappen. He was stationary for an identical amount of time to Hamilton, but the Briton had put in a good out lap and when Max headed onto the snaking pit lane exit road, Hamilton was rounding turn one. However, the Mercedes driver was lodged behind Daniel Ricciardo’s McLaren and that allowed Max to re-join in first place, albeit just 1.7s ahead of his title rival."
+        },
+        {
+          "lap": 28,
+          "info": "The Team pits Sergio Perez. "
+        },
+        {
+          "lap": 30,
+          "info": "Virtual Safety Car was deployed when elements from the rear of Stroll’s car broke off. That allowed Mercedes to pit Bottas and with the caution forcing Checo to run slowly, Bottas was able to steal third place."
+        },
+        {
+          "lap": 40,
+          "info": "The Team pits Max Verstappen."
+        },
+        {
+          "lap": 41,
+          "info": "Valtteri Bottas pits."
+        },
+        {
+          "lap": 42,
+          "info": "The Team pits Sergio Perez. "
+        },
+        {
+          "lap": 43,
+          "info": "Lewis Hamilton pits. As he left his pit box Max powered past down the pit straight and when Hamilton emerged Max the order was maintained with the Red Bull ahead of the Mercedes."
+        },
+        {
+          "lap": 48,
+          "info": "Hamilton began to close in, however, having got a good exit out of the final corner and drawn close into turn one, the Mercedes driver attacked Max into the turn. He drew alongside Max but the Dutchman braked later and just held on. Both cars went off into the run off area but resumed safely. The stewards noted the incident but quickly ruled that no investigation was necessary."
+        },
+        {
+          "lap": 52,
+          "info": "Ferrari pits Charles Leclerc."
+        },
+        {
+          "lap": 58,
+          "info": "Hamilton attacked again. This time Max was forced to defend more robustly and though he held the lead he was later given a black and white flag for weaving."
+        },
+        {
+          "lap": 59,
+          "info": "Hamilton manages to get past Max into P1."
+        },
+        {
+          "lap": 69,
+          "info": "The Team pits Checo for an attemp at the fastest lap."
+        },
+        {
+          "lap": 71,
+          "info": "Checo takes on the fastest lap."
+        }
+      ]
+    },
+
+    "qatar":
+    {
+      "startingGrid" : "images/races/qatar-start.PNG",
+      "raceStats" : "images/races/qatar-stats.PNG",
+      "raceENd": "images/races/qatar-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "Just two hours before the race, the Max Verstapen was demoted to seventh on the grid after the stewards ruled that he had not obeyed double waved yellow flags at the end of qualifying following Pierre Gasly’s Q3 crash. However, when the lights went out at the start, the championship leader made a brilliant getaway, slipping between Mercedes’ Valtteri Bottas and Ferrari’s Carlos Sainz as they headed to turn one. And after cleverly hugging the inside line through the opening corner he found himself in P4 after turn two, despite kicking up the dust when Alpine’s Fernando Alonso drifted wide as they approached the apex."        
+        },
+        {
+          "lap": 3,
+          "info": "Max was quickly past Gasly. The AlphaTauri man went wide in the final corner as DRS was activated and Max breezed past on the pit straight."
+        },
+        {
+          "lap": 5,
+          "info": "Max gets past Alpine's Fernando Alonso, up into P2, behind Hamilton."
+        },
+        {
+          "lap": 7,
+          "info": "Max goes wide into a corner."
+        },
+        {
+          "lap": 9,
+          "info": "Sergio Perez gets past Alpine's Esteban Ocon up into P6."
+        },
+        {
+          "lap": 16,
+          "info": "Checo gets past Lando Norris' McLaren up into P4."
+        },
+        {
+          "lap": 17,
+          "info": "The Team pits Max Verstappen."
+        },
+        {
+          "lap": 18,
+          "info": "Mercedes brings in Hamilton for a new set of tyres. Hamilton re-joined in the lead, the full length of the pit straight ahead of Max."
+        },
+        {
+          "lap": 19,
+          "info": "Sergio Perez pits."
+        },
+        {
+          "lap": 27,
+          "info": "Ferrari pits Charles Leclerc."
+        },
+        {
+          "lap": 29,
+          "info": "Checo is attacking Fernando Alonso's Alpine in P4. He attacked and after feinting right, which caused Alonso to cover aggressively, Checo moved left and went to the outside of the Alpine through turn one. Alonso hung on to his line and the pair went through turns two and three wheel-to-wheel. However, armed with a better exit from three, Checo was able to muscle past to take fourth place."
+        },
+        {
+          "lap": 33,
+          "info": "Bottas suffered a puncture. He went off track mid-way through the lap and re-joined and that allowed Sergio to close in and sweep past the Mercedes man to claim third place. Bottas made it back to the pit lane but after an 11-second stop for hard tyres and a new nose, the Finn re-joined in P14."
+        },
+        {
+          "lap": 41,
+          "info": "Max made his second pit stop, taking on medium tyres in a superb 2.1s stop. Checo followed moments later and he too went for mediums, re-joining in P7 with Stroll, Ocon and Norris."
+        },
+        {
+          "lap": 42,
+          "info": "Mercedes reacts and pits Hamilton."
+        },
+        {
+          "lap": 48,
+          "info": "Valtteri Bottas is retired from the race, after suffering damage to the car from the tyre puncture."
+        },
+        {
+          "lap": 54,
+          "info": "The race then took another turn in the final laps as Norris and both Williams drivers, who were both attempting one-stop races, suffered front-left punctures similar to the one that eventually caused Bottas to retire. Virtual Safety Car was deployed."
+        },
+        {
+          "lap": 55,
+          "info": "Max Verstappen pits under VSC."
+        },
+        {
+          "lap": 57,
+          "info": "Max Verstappen grabs the fastest lap."
+        }
+      ]
+    },
+
+    "jeddah":
+    {
+      "startingGrid" : "images/races/jeddah-start.PNG",
+      "raceStats" : "images/races/jeddah-stats.PNG",
+      "raceENd": "images/races/jeddah-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "At the start of the race Max made a good getaway from third place on the grid, but ahead of him both Mercedes also made good starts and as the field headed towards turn one Hamilton led ahead of Valtteri Bottas and Max. Behind them Sergio Pérez made a great start and almost made it past fourth-place starter Charles Leclerc, but the Mexican locked up slightly into turn one and that allowed Leclerc to pull back ahead and hold fourth as they exited turn two."        
+        },
+        {
+          "lap": 10,
+          "info": "Mick Schumacher hits the wall. The Haas driver lost control on entry and slid sideways into the barriers at turn 22. As the safety car was deployed Mercedes opted to pit Hamilton and the race leader took on hard tyres in a 2.8-second stop. The Team covered that by pitting Checo from P5 and after his stop for hard tyres he re-joined in an eventual P8. Bottas took the lead, with Max furiously complaining that the Finn was driving excessively slowly. The second Mercedes then pitted as the Team kept Max on track. The Dutchman powered into the lead as Hamilton and Bottas took up second and third place respectively."
+        },
+        {
+          "lap": 13,
+          "info": "The race is red-flagged. The cars streamed back to the pit lane, where under red flag rules, the Team was permitted to change Max’s tyres. He would take the re-start from pole and on fresh rubber."
+        },
+        {
+          "lap": 15,
+          "info": "A standing re-start was decreed and when the lights went out it was again Hamilton who made the best getaway and he pulled ahead of Max into turn one. Max braked late and tried to hang on around the outside, but he went off track as he took the lead. Max’s move also allowed Ocon to sneak past Hamilton and steal second place. But behind the chaos was unfolding. Starting from P8 Checo got squeezed badly, though initially he managed to avoid contact with the cars on either side. However, there was nothing he could do when Leclerc tagged the Red Bull, spinning him into the wall. The chaos continued when Haas’ Nikita Mazepin outbraked himself and slammed into the rear of George Russell’s Williams and the red flags were flown again. After the incident at the first re-start between Max and Lewis, Race Control promoted Ocon to first place with Hamilton second and with Max directed to start from third place ahead of Ricciardo and Bottas."
+        },
+        {
+          "lap": 17,
+          "info": "When the lights went out for a third standing start, it was Max who made the best start. The Red Bull driver reacted 0.01s quicker than Hamilton and as the Mercedes driver tussled with Ocon, Max dived to the inside and slipped past his title rival in turn one. And with momentum on his side, he then powered past Ocon on the run to turn three to brilliantly take the lead."
+        },
+        {
+          "lap": 23,
+          "info": "Aston Martin's Sebastian Vettel and AlphaTauri's Yuki Tsunoda had a brief contact and spun, where Tsunoda's front-wing has fallen off. Virtual Safety Car was deployed due to the debris from Tsunoda's car."
+        },
+        {
+          "lap": 24,
+          "info": "VSC ending."
+        },
+        {
+          "lap": 28,
+          "info": "There was contact between Aston Martin's Sebastian Vettel and Alfa Romeo’s Kimi Räikkönen. Kimi lost part of his front-wing and there was debris on the road. Therefore, the VSC was deployed."
+        },
+        {
+          "lap": 29,
+          "info": "VSC ending."
+        },
+        {
+          "lap": 30,
+          "info": "Since not all the debris was cleaned, another VSC was deployed."
+        },
+        {
+          "lap": 32,
+          "info": "VSC ending."
+        },
+        {
+          "lap": 36,
+          "info": "Hamilton closed in on Max and attacked on the pit straight. The rivals tangled in turn one and Max left the track as he held the lead. "
+        },
+        {
+          "lap": 37,
+          "info": "The Red Bull driver was told to cede the lead but when he slowed on track to do so, Hamilton, seemingly unaware that the instruction had been given, did not slow enough and slammed into the back of the Red Bull. Max powered away into the lead again, but once more handed the place back. Max got a five-second penalty for leaving the track and gaining an advantage."
+        },
+        {
+          "lap": 39,
+          "info": "Valtteri Bottas gets past McLaren's Daniel Ricciardo up into P4."
+        },
+        {
+          "lap": 42,
+          "info": "Max, again, gives his position back to Lewis, but immediately fight Lewis to it and retakes P1."
+        },
+        {
+          "lap": 43,
+          "info": "Hamilton challenges Max again for P1 and retakes the place."
+        }
+      ]
+    },
+
+    "abudhabi":
+    {
+      "startingGrid" : "images/races/yas-marina-start.PNG",
+      "raceStats" : "images/races/yas-marina-stats.PNG",
+      "raceENd": "images/races/yas-marina-end.PNG",
+      "lapsInfo": [
+        {
+          "lap": 1,
+          "info": "At the start, Hamilton was better off the line and overhauled the advantage Max had gained in claiming pole position and the Mercedes driver took the lead into turn one. Behind them, Sergio made a good start and stole third place from McLaren’s Lando Norris who ran wide. Having lost the lead, Max slotted into the slipstream of Hamilton and closed up to the Briton on the run to turn seven. He attacked with a move down the inside and Hamilton went wide. The Mercedes re-joined the track in the lead and the incident prompted the steward to take a closer look. But when the ruling came back the officials’ verdict was “no investigation necessary,” and Hamilton was free to march on in the lead. Despite the protestation of the Team, the Briton kept his advantage and then set about building a gap to Max, who soon began to suffer on his starting soft tyres."        
+        },
+        {
+          "lap": 13,
+          "info": "Due to his tyres graining very much, Max heads into the pits and re-joined in P5 behind Norris. He quickly got past the McLaren and then set about chasing down Ferrari's Carlos Sainz."
+        },
+        {
+          "lap": 14,
+          "info": "Mercedes reacts and pits Hamilton, who re-joins in P2, 11 seconds behind Checo in P1."
+        },
+        {
+          "lap": 20,
+          "info": "The Mercedes driver closed the gap between him and Checo and with DRS support he attacked on the pit straight, passing the Mexican with apparent ease. Checo was not easily dismissed, however, and in the following DRS zone he powered back past the Briton to reclaim the lead. "
+        },
+        {
+          "lap": 21,
+          "info": "Checo was holding Hamilton up. Checo’s brilliant defence was all the time allowing Max to churn through his own deficit to Hamilton (from +7.5s to +1s). And when the Mercedes finally made it past Sergio under DRS on the next lap, Checo gave Max a quick tow and then moved aside to let Max power through into second place behind Hamilton once more."
+        },
+        {
+          "lap": 30,
+          "info": "Mercedes pits Valtteri Bottas."
+        },
+        {
+          "lap": 33,
+          "info": "Hamilton began to slowly draw away from Max and by lap 33 he was five seconds ahead of the Red Bull driver."
+        },
+        {
+          "lap": 36,
+          "info": "The complexion of the race changed when Alfa Romeo’s Antonio Giovinazzi pulled over at the side of the track with gearbox issues. The virtual safety car was deployed and with Hamilton staying out on track, the Team quickly called Max in for a fresh set of hard tyres. Checo also pitted under the VSC and he re-joined in third place. Max re-joined almost 17 seconds behind Hamilton."
+        },
+        {
+          "lap": 37,
+          "info": "VSC ending. Red Bull driver began to close on the Mercedes at the rate of eight tenths of a second per lap. But as the final stint unfolded it became clear that the pace in the new tyres wouldn’t be strong enough to put Max close to the Briton."
+        },
+        {
+          "lap": 53,
+          "info": "Williams’ Nicholas Latifi crashed and the safety car was released. Max immediately pitted and the team fitted a set of soft tyres as Hamilton stayed on track."
+        },
+        {
+          "lap": 55,
+          "info": "The Team retire Perez, due to high risk of mechanical failure."
+        },
+        {
+          "lap": 57,
+          "info": "It looked like the race might finish under the safety car. Firsly, Race control said that, in spite of it usually being done, lapped cars will not be allowed to overtake, leaving 5 cars between Max and Hamilton. But, few moments later, race control decreed that the five cars on track between Hamilton and Verstappen would be allowed to unlap themselves and that the safety car would come in to allow a single lap of racing."
+        },
+        {
+          "lap": 58,
+          "info": "Safety car is in. Since Max had fresh soft tyres and Hamilton old hard tyres, Max overtook Hamilton at the forst opportunity he could, and thus won the championship."
+        }
+      ]
+    }
+  }
